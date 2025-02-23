@@ -4,7 +4,7 @@
 
 👩🏻‍💻I'm familiar with Java, Python, C, HTML, CSS, JS and SQL
 
-😎I'm currently learning full-stack web development and interested in human-computer interaction
+😎I'm passionate about full-stack web development 
 
 
 <!--
